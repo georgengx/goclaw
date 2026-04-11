@@ -7,14 +7,12 @@ pkg-helper
 
 # IDE
 .idea/
-.vscode/
 
 # OS
 .DS_Store
 ._*
 
 # Environment
-.env*
 !.env.example
 
 app
@@ -88,3 +86,9 @@ compose.d/*
 /mise.*.toml
 /mise
 /.mise
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
+config.bat
+node_modules
